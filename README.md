@@ -9,3 +9,5 @@ L1 - data types --> number, string, boolean
 L2- array , enums, tuples, any
 
 L3- Union, literal types , alias/custom types
+
+L4- Function return type
