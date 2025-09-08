@@ -17,3 +17,5 @@ L5- Unknown and never return type
 L6- classes and interfaces 
 
 L7 - Type Gaurds and Type assertion
+
+L8 - Generics and constraints 
