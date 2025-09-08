@@ -11,3 +11,9 @@ L2- array , enums, tuples, any
 L3- Union, literal types , alias/custom types
 
 L4- Function return type
+
+L5- Unknown and never return type
+
+L6- classes and interfaces 
+
+L7 - Type Gaurds and Type assertion
